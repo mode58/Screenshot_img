@@ -1,0 +1,3 @@
+sleepではなくBroadcastReceiverも視野に入れる
+
+通知送信はLINE以外を検討
